@@ -1,4 +1,4 @@
-# Netflix-Clone
-This is my first Github Repository
+# Netflix-Clone Project 🤴
+This is my first Project and Repository on Github
 <br>
-Author : Randhir
+Author : Randhir Ray
